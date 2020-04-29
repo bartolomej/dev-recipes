@@ -44,6 +44,10 @@ Here is a few tips and resources when building a backend application.
 
 ### Best practises
 - [Node.js](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list
+- [The Twelve Factor App](https://12factor.net/) - a methodology for building software-as-a-service apps
+
+## Tools
+- [envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 
 ### Demo projects
 - [Crate](https://github.com/atulmy/crate) - example Node.js project
@@ -51,6 +55,7 @@ Here is a few tips and resources when building a backend application.
 - [Microservices demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ### Guides
+- [How I write backends](https://github.com/fpereiro/backendlore)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here) guieds
 
 ### Deployment
