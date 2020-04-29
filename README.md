@@ -2,7 +2,7 @@
 
 A list of best development practises and resources that you can I use as checklist reference when developing stuff.
 
-## Website Recipes 🔨
+## Website Recipes 🌐
 
 Here is a few tips and resources when building a website.
 
@@ -20,6 +20,11 @@ For prototyping I use [Figma](https://www.figma.com/), because it's free for a s
 ### Development
 - [Code Snippets](https://www.30secondsofcode.org/css/p/1/)
 
+### Optimization
+- [ImageOptim](https://imageoptim.com/) - open source image optimization app
+- [Handbrake](https://handbrake.fr/) - open source video transcoder
+- [Profiling React.js performance](https://addyosmani.com/blog/profiling-react-js/)
+
 ### Testing and SEO
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist) - exhaustive list of all elements you need to have / to test before launching your website
 - [Awesome SEO](https://github.com/teles/awesome-seo) - all SEO related resources
@@ -33,7 +38,7 @@ For prototyping I use [Figma](https://www.figma.com/), because it's free for a s
 I use [Github Pages](https://pages.github.com/) for casual projects and [Netlify](https://www.netlify.com/) for more progressive projects.
 
 
-## Backend Recipes 🔨
+## Backend Recipes 📦
 
 Here is a few tips and resources when building a backend application.
 
