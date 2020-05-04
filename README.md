@@ -43,11 +43,13 @@ I use [Github Pages](https://pages.github.com/) for casual projects and [Netlify
 Here is a few tips and resources when building a backend application.
 
 ### Best practises
+- [Stong Node.js](https://github.com/jesusprubio/strong-node) - More than 100 security checks for your Node.js API
 - [Node.js](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list
 - [The Twelve Factor App](https://12factor.net/) - a methodology for building software-as-a-service apps
 
 ## Tools
 - [envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
+- [AppWrite](https://appwrite.io/) - Open Source backend server
 
 ### Demo projects
 - [Crate](https://github.com/atulmy/crate) - example Node.js project
