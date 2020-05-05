@@ -7,6 +7,7 @@ A list of best development practises and resources that you can I use as checkli
 Here is a few tips and resources when building a website.
 
 ### Design and Inspiration
+- [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
 - [Neumorphism CSS](https://neumorphism.io/#55b9f3) - generate soft CSS ui
 - [Screely](https://www.screely.com/) - generate website mock images
 - [MockUPhone](https://mockuphone.com/) - generate mobile app mock images
@@ -15,10 +16,10 @@ Here is a few tips and resources when building a website.
 - [Awesome Design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources
 - [Awesome Portfolios](https://github.com/JonathanMH/all-the-awesome-portfolios) - A growing, curated list of amazing portfolios
 
-For prototyping I use [Figma](https://www.figma.com/), because it's free for a single account and easy to use.
-
 ### Development
+- [Awesome Web Accessability](https://github.com/brunopulis/awesome-a11y#readme)
 - [Code Snippets](https://www.30secondsofcode.org/css/p/1/)
+- [Awesome Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
 
 ### Optimization
 - [ImageOptim](https://imageoptim.com/) - open source image optimization app
@@ -26,6 +27,7 @@ For prototyping I use [Figma](https://www.figma.com/), because it's free for a s
 - [Profiling React.js performance](https://addyosmani.com/blog/profiling-react-js/)
 
 ### Testing and SEO
+- [Awesome Web Performance](https://github.com/pajaydev/awesome-web-performance-budget#readme)
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist) - exhaustive list of all elements you need to have / to test before launching your website
 - [Awesome SEO](https://github.com/teles/awesome-seo) - all SEO related resources
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - open source tool for analyzing website quality
@@ -34,8 +36,7 @@ For prototyping I use [Figma](https://www.figma.com/), because it's free for a s
 
 ### Deployment
 - [Fleek](https://fleek.co/) - free deployment
-
-I use [Github Pages](https://pages.github.com/) for casual projects and [Netlify](https://www.netlify.com/) for more progressive projects.
+- [Gihub Pages](https://pages.github.com/)
 
 
 ## Backend Recipes 📦
@@ -62,7 +63,6 @@ Here is a few tips and resources when building a backend application.
 
 ### Deployment
 - [Free4Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
 
 ## General Recipes 🔨
 - [JS module best practises](https://github.com/mattdesl/module-best-practices)
