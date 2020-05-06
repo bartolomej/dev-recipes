@@ -2,6 +2,7 @@
 
 A list of best development practises and resources that you can I use as checklist reference when developing stuff.
 
+
 ## Website Recipes 🌐
 
 Here is a few tips and resources when building a website.
@@ -38,6 +39,14 @@ Here is a few tips and resources when building a website.
 - [Fleek](https://fleek.co/) - free deployment
 - [Gihub Pages](https://pages.github.com/)
 
+
+## Android Recipes 📱
+
+### Demo projects
+- [Ridesharing app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+- [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - Sample app implementing MVP architecture, written in Java
+- [archi](https://github.com/ivacf/archi) - showcases 3 Android app architectures: "Standard Android", MVP and MVVM
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
 
 ## Backend Recipes 📦
 
