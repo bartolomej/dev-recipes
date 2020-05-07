@@ -8,12 +8,9 @@ A list of best development practises and resources that you can I use as checkli
 Here is a few tips and resources when building a website.
 
 ### Design and Inspiration
-<<<<<<< HEAD
 - [Cuberto agency](https://cuberto.com/)
 - [Yalantis agency](https://yalantis.com/)
-=======
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
->>>>>>> ea1c914fbedfb3b57706eb2404c4c0209ff21ab7
 - [Neumorphism CSS](https://neumorphism.io/#55b9f3) - generate soft CSS ui
 - [Screely](https://www.screely.com/) - generate website mock images
 - [MockUPhone](https://mockuphone.com/) - generate mobile app mock images
@@ -62,6 +59,7 @@ Here is a few tips and resources when building a website.
 ### Learn
 - [Android Developer Fundamentals](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 - [ViewModels and LiveData: Patterns and AntiPatterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+
 
 ## Backend Recipes 📦
 
