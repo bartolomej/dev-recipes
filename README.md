@@ -7,6 +7,8 @@ A list of best development practises and resources that you can I use as checkli
 Here is a few tips and resources when building a website.
 
 ### Design and Inspiration
+- [Cuberto agency](https://cuberto.com/)
+- [Yalantis agency](https://yalantis.com/)
 - [Neumorphism CSS](https://neumorphism.io/#55b9f3) - generate soft CSS ui
 - [Screely](https://www.screely.com/) - generate website mock images
 - [MockUPhone](https://mockuphone.com/) - generate mobile app mock images
@@ -38,6 +40,16 @@ For prototyping I use [Figma](https://www.figma.com/), because it's free for a s
 I use [Github Pages](https://pages.github.com/) for casual projects and [Netlify](https://www.netlify.com/) for more progressive projects.
 
 
+## Android Recipes
+
+### Examples
+- [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
+- [Architectural Components Samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components
+
+### Learn
+- [Android Developer Fundamentals](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
+- [ViewModels and LiveData: Patterns and AntiPatterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+
 ## Backend Recipes 📦
 
 Here is a few tips and resources when building a backend application.
@@ -47,6 +59,7 @@ Here is a few tips and resources when building a backend application.
 - [The Twelve Factor App](https://12factor.net/) - a methodology for building software-as-a-service apps
 
 ## Tools
+- [Publis APIs](https://github.com/public-apis/public-apis) - list of all public APIs
 - [envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 
 ### Demo projects
