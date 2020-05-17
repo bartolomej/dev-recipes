@@ -50,8 +50,6 @@ Here is a few tips and resources when building a website.
 - [archi](https://github.com/ivacf/archi) - showcases 3 Android app architectures: "Standard Android", MVP and MVVM
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
 
-## Android Recipes
-
 ### Examples
 - [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [Architectural Components Samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components
@@ -93,3 +91,4 @@ Here is a few tips and resources when building a backend application.
 - [JS Promise cookbook](https://github.com/mattdesl/promise-cookbook)
 - [Fullstack JS architecture](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful
