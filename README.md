@@ -8,6 +8,7 @@ A list of best development practises and resources that you can I use as checkli
 Here is a few tips and resources when building a website.
 
 ### Design and Inspiration
+- [Rive](https://rive.app/) - animation tool
 - [Cuberto agency](https://cuberto.com/)
 - [Yalantis agency](https://yalantis.com/)
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
@@ -25,6 +26,7 @@ Here is a few tips and resources when building a website.
 - [Awesome Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
 
 ### Optimization
+- [Bundle Phobia](https://bundlephobia.com/) - analyze the cost of adding a npm package
 - [ImageOptim](https://imageoptim.com/) - open source image optimization app
 - [Handbrake](https://handbrake.fr/) - open source video transcoder
 - [Profiling React.js performance](https://addyosmani.com/blog/profiling-react-js/)
@@ -37,8 +39,9 @@ Here is a few tips and resources when building a website.
 - [metatags.io](https://metatags.io/) - generate metatags for FB, Twitter, Google,...
 - [favicon.io](https://favicon.io/) - generate your favicon
 
-### Deployment
-- [Fleek](https://fleek.co/) - free deployment
+### Free Deployment
+- [Vercel](https://vercel.com/)
+- [Fleek](https://fleek.co/)
 - [Gihub Pages](https://pages.github.com/)
 
 
