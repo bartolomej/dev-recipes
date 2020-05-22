@@ -2,23 +2,48 @@
 
 A list of best development practises and resources that you can I use as checklist reference when developing stuff.
 
+## Contents
+- [Development Recipes 🔨](#development-recipes---)
+  * [Website Recipes 🌐](#website-recipes---)
+  * [Awesome Websites](#awesome-websites)
+    + [Design Tools](#design-tools)
+    + [Development](#development)
+    + [Optimization](#optimization)
+    + [Testing and SEO](#testing-and-seo)
+    + [Free Deployment](#free-deployment)
+  * [Android Recipes 📱](#android-recipes---)
+    + [Demo projects](#demo-projects)
+    + [Examples](#examples)
+    + [Learn](#learn)
+  * [Backend Recipes 📦](#backend-recipes---)
+    + [Best practises](#best-practises)
+  * [Tools](#tools)
+    + [Demo projects](#demo-projects-1)
+    + [Guides](#guides)
+    + [Deployment](#deployment)
+  * [General Recipes 🔨](#general-recipes---)
+
 
 ## Website Recipes 🌐
 
 Here is a few tips and resources when building a website.
 
-### Design and Inspiration
-- [Rive](https://rive.app/) - animation tool
+## Awesome Websites
+- [Grav](https://getgrav.org/)
+- [Cybersole](https://cybersole.io/)
 - [Cuberto agency](https://cuberto.com/)
 - [Yalantis agency](https://yalantis.com/)
+- [Awesome Portfolios](https://github.com/JonathanMH/all-the-awesome-portfolios) - A growing, curated list of amazing portfolios
+- [Awwwards](https://www.awwwards.com/) - website awwards
+
+### Design Tools
+- [Rive](https://rive.app/) - animation tool
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
 - [Neumorphism CSS](https://neumorphism.io/#55b9f3) - generate soft CSS ui
 - [Screely](https://www.screely.com/) - generate website mock images
 - [MockUPhone](https://mockuphone.com/) - generate mobile app mock images
-- [Awwwards](https://www.awwwards.com/) - website awwards
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything
 - [Awesome Design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources
-- [Awesome Portfolios](https://github.com/JonathanMH/all-the-awesome-portfolios) - A growing, curated list of amazing portfolios
 
 ### Development
 - [Awesome Web Accessability](https://github.com/brunopulis/awesome-a11y#readme)
@@ -89,6 +114,7 @@ Here is a few tips and resources when building a backend application.
 - [Free4Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## General Recipes 🔨
+- [Makrdown tools](https://www.markdownguide.org/tools/) - good for documentation and ideas
 - [JS module best practises](https://github.com/mattdesl/module-best-practices)
 - [JS testing best practises](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [JS Promise cookbook](https://github.com/mattdesl/promise-cookbook)
