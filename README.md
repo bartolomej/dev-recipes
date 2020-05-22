@@ -124,3 +124,4 @@ Here is a few tips and resources when building a backend application.
 - [Fullstack JS architecture](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful
+- [Learn Anything](https://learn-anything.xyz/) - platform for knowledge discovery
