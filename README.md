@@ -37,6 +37,7 @@ Here is a few tips and resources when building a website.
 - [Awwwards](https://www.awwwards.com/) - website awwards
 
 ### Design Tools
+- [Markup.io](https://www.markup.io/) - turn your website into a canvas
 - [Rive](https://rive.app/) - animation tool
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
 - [Neumorphism CSS](https://neumorphism.io/#55b9f3) - generate soft CSS ui
@@ -46,9 +47,11 @@ Here is a few tips and resources when building a website.
 - [Awesome Design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources
 
 ### Development
+- [Miragejs](https://miragejs.com/) - mock your http api requests
 - [Awesome Web Accessability](https://github.com/brunopulis/awesome-a11y#readme)
 - [Code Snippets](https://www.30secondsofcode.org/css/p/1/)
 - [Awesome Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
+- [Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
 
 ### Optimization
 - [Bundle Phobia](https://bundlephobia.com/) - analyze the cost of adding a npm package
