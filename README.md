@@ -37,6 +37,7 @@ Here is a few tips and resources when building a website.
 - [Awwwards](https://www.awwwards.com/) - website awwards
 
 ### Design Tools
+- [SpritesAsAService](https://ljvmiranda921.github.io/sprites-as-a-service/) - Github alike avatars api
 - [Markup.io](https://www.markup.io/) - turn your website into a canvas
 - [Rive](https://rive.app/) - animation tool
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
@@ -95,6 +96,7 @@ Here is a few tips and resources when building a website.
 Here is a few tips and resources when building a backend application.
 
 ### Best practises
+- [REST API](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) - Best practises for RESTful API design
 - [Stong Node.js](https://github.com/jesusprubio/strong-node) - More than 100 security checks for your Node.js API
 - [Node.js](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list
 - [The Twelve Factor App](https://12factor.net/) - a methodology for building software-as-a-service apps
