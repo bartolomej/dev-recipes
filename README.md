@@ -49,6 +49,10 @@ Here is a few tips and resources when building a website front end.
 - [Awesome Design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources
 - [UI / UX Research Group](https://www.nngroup.com/) - contains articles about UX
 
+## Cool fonts
+- [Work Sans](https://fonts.google.com/specimen/Work+Sans)
+- [Quattrocento](https://fonts.google.com/specimen/Quattrocento+Sans)
+
 ### Development
 - [Miragejs](https://miragejs.com/) - mock your http api requests
 - [Awesome Web Acessability](https://github.com/brunopulis/awesome-a11y#readme)
@@ -71,6 +75,7 @@ Here is a few tips and resources when building a website front end.
 - [favicon.io](https://favicon.io/) - generate your favicon
 
 ### Free Deployment
+- [Surge](https://surge.sh/)
 - [Vercel](https://vercel.com/)
 - [Fleek](https://fleek.co/)
 - [Gihub Pages](https://pages.github.com/)
@@ -134,6 +139,7 @@ Here is a few tips and resources when building a backend application.
 - [Fullstack JS architecture](https://github.com/atulmy/fullstack-javascript-architecture)
 
 ## Resources & Guides
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful
 - [Fullstack GraphQL tutorial](https://www.howtographql.com/)
 
