@@ -2,30 +2,30 @@
 
 A list of best development practises and resources that you can I use as reference when developing stuff.
 
-- [Website Recipes 🌐](#website-recipes-%F0%9F%8C%90)
+- [Website Recipes 🌐](#website-recipes)
 - [Awesome Websites](#awesome-websites)
   * [Design Tools](#design-tools)
   * [Development](#development)
   * [Optimisation](#optimisation)
   * [Testing and SEO](#testing-and-seo)
   * [Free Deployment](#free-deployment)
-- [Android Recipes 📱](#android-recipes-%F0%9F%93%B1)
+- [Android Recipes 📱](#android-recipes)
   * [Demo projects](#demo-projects)
   * [Examples](#examples)
   * [Learn](#learn)
-- [Backend Recipes 📦](#backend-recipes-%F0%9F%93%A6)
+- [Backend Recipes 📦](#backend-recipes)
   * [Best practises](#best-practises)
 - [Tools](#tools)
   * [Demo projects](#demo-projects-1)
   * [Guides](#guides)
   * [Deployment](#deployment)
-- [FullStack Recipes 🔨](#fullstack-recipes-%F0%9F%94%A8)
+- [FullStack Recipes 🔨](#fullstack-recipes)
   * [Tools](#tools-1)
   * [Best Practises](#best-practises)
 - [Resources & Guides](#resources--guides)
   * [Books](#books
 
-## Website Recipes 🌐
+## Website Recipes
 
 Here is a few tips and resources when building a website front end.
 
@@ -81,9 +81,10 @@ Here is a few tips and resources when building a website front end.
 - [Gihub Pages](https://pages.github.com/)
 
 
-## Android Recipes 📱
+## Android Recipes
 
 ### Demo projects
+- [Plaid app](https://github.com/android/plaid)
 - [Ridesharing app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
 - [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - Sample app implementing MVP architecture, written in Java
 - [archi](https://github.com/ivacf/archi) - showcases 3 Android app architectures: "Standard Android", MVP and MVVM
@@ -98,7 +99,7 @@ Here is a few tips and resources when building a website front end.
 - [ViewModels and LiveData: Patterns and AntiPatterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
 
 
-## Backend Recipes 📦
+## Backend Recipes
 
 Here is a few tips and resources when building a backend application.
 
@@ -126,7 +127,7 @@ Here is a few tips and resources when building a backend application.
 ### Deployment
 - [Free4Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-## FullStack Recipes 🔨
+## FullStack Recipes
 
 ### Tools
 - [Markdown tools](https://www.markdownguide.org/tools/) - good for documentation and ideas
