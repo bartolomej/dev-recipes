@@ -74,6 +74,9 @@ Here is a few tips and resources when building a website front end.
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - open source tool for analysing website quality
 - [metatags.io](https://metatags.io/) - generate metatags for FB, Twitter, Google,...
 - [favicon.io](https://favicon.io/) - generate your favicon
+- [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+- [Google's Guide to SEO](https://support.google.com/webmasters/answer/7451184?hl=en)
+- [Hemingway Editor](http://www.hemingwayapp.com/) - helps you with writing
 
 #### Free Deployment
 - [Surge](https://surge.sh/)
