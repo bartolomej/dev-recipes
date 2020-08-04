@@ -30,6 +30,7 @@ A list of best development practises and resources that you can I use as referen
 Here is a few tips and resources when building a website front end.
 
 #### Awesome Websites
+- [Lusion Agency](https://lusion.co/)
 - [Grav](https://getgrav.org/)
 - [Cybersole](https://cybersole.io/)
 - [Digital Agencies](https://digitalagencynetwork.com/inspiring-digital-agency-website-designs/)
@@ -37,7 +38,10 @@ Here is a few tips and resources when building a website front end.
 - [Awwwards](https://www.awwwards.com/) - website awwards
 
 #### Design Tools
+- [CSS effects snippets](https://emilkowalski.github.io/css-effects-snippets/)
+- [Cool Hue](https://webkul.github.io/coolhue/) - Gradient Colors Collection Palette
 - [Free mockups](https://www.free-mockup.com/)
+- [Colors and Fonts](https://www.colorsandfonts.com/#main_section) - Find colors and typography combinations ready to copy paste in one click
 - [Faux Code Generator](http://knutsynstad.com/fauxcode/)
 - [SpritesAsAService](https://ljvmiranda921.github.io/sprites-as-a-service/) - Github alike avatars api
 - [Markup.io](https://www.markup.io/) - turn your website into a canvas
@@ -49,6 +53,11 @@ Here is a few tips and resources when building a website front end.
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything
 - [Awesome Design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources
 - [UI / UX Research Group](https://www.nngroup.com/) - contains articles about UX
+
+#### Design concepts
+- [Add to cart](https://codepen.io/aaroniker/full/pogGgbx) - by Aaron Iker
+- [Pull to refresh](https://codepen.io/ainalem/pen/abdLaEW) - by Mikael Ainalem
+- [Interactive paycard](https://codesandbox.io/s/github/jasminmif/react-interactive-paycard/tree/master/?fontsize=14&hidenavigation=1&theme=dark) - by jasminmif
 
 #### Cool fonts
 - [Work Sans](https://fonts.google.com/specimen/Work+Sans)
@@ -131,7 +140,13 @@ Here is a few tips and resources when building a backend application.
 
 ## FullStack Recipes
 
+#### Startup resources
+- [Exploding Topics](https://explodingtopics.com/) - Discover the hottest new trends.
+- [Startup Playbook](https://playbook.samaltman.com/)
+- [YCombinator resources](https://www.ycombinator.com/resources/)
+
 #### Tools
+- [Explain Shell](https://explainshell.com/) - match command-line arguments to their help text
 - [Markdown tools](https://www.markdownguide.org/tools/) - good for documentation and ideas
 - [Learn Anything](https://learn-anything.xyz/) - platform for knowledge discovery
 - [Business Name Generator](https://namelix.com/)
@@ -141,7 +156,12 @@ Here is a few tips and resources when building a backend application.
 - [JS testing best practises](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Fullstack JS architecture](https://github.com/atulmy/fullstack-javascript-architecture)
 
+#### Media Tools
+- [Photopea](https://www.photopea.com/) - online photo editor similar to Photoshop
+
 #### Resources & Guides
+- [Laws of UX](https://lawsofux.com/) - a collection of the maxims and principles that designers can consider when building user interfaces
+- [Free programming online courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful
 - [Fullstack GraphQL tutorial](https://www.howtographql.com/)
@@ -149,3 +169,7 @@ Here is a few tips and resources when building a backend application.
 #### Books
 - [JS Promise cookbook](https://github.com/mattdesl/promise-cookbook)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Books people reread](https://rauchg.com/2020/books-people-reread)
+
+#### General
+- [Resume generator](https://rxresu.me/)
